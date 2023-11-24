@@ -1,0 +1,191 @@
+[INFO] Scanning for projects...
+[INFO] Artifact org.apache.maven.plugins:maven-clean-plugin:pom:3.2.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[INFO] Artifact org.apache.maven.plugins:maven-clean-plugin:pom:3.2.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[WARNING] The POM for org.apache.maven.plugins:maven-clean-plugin:jar:3.2.0 is missing, no dependency information available
+[INFO] Artifact org.apache.maven.plugins:maven-clean-plugin:jar:3.2.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[INFO] Artifact org.apache.maven.plugins:maven-clean-plugin:jar:3.2.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-clean-plugin:3.2.0: Plugin org.apache.maven.plugins:maven-clean-plugin:3.2.0 or one of its dependencies could not be resolved: The following artifacts could not be resolved: org.apache.maven.plugins:maven-clean-plugin:jar:3.2.0 (present, but unavailable): org.apache.maven.plugins:maven-clean-plugin:jar:3.2.0 was not found in https://maven-central.storage.googleapis.com/repos/central/data/ during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of google-maven-central has elapsed or updates are forced
+[INFO] Artifact org.apache.maven.plugins:maven-resources-plugin:pom:3.3.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[INFO] Artifact org.apache.maven.plugins:maven-resources-plugin:pom:3.3.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[WARNING] The POM for org.apache.maven.plugins:maven-resources-plugin:jar:3.3.1 is missing, no dependency information available
+[INFO] Artifact org.apache.maven.plugins:maven-jar-plugin:pom:3.3.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[INFO] Artifact org.apache.maven.plugins:maven-jar-plugin:pom:3.3.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[WARNING] The POM for org.apache.maven.plugins:maven-jar-plugin:jar:3.3.0 is missing, no dependency information available
+[INFO] Artifact org.apache.maven.plugins:maven-jar-plugin:jar:3.3.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[INFO] Artifact org.apache.maven.plugins:maven-jar-plugin:jar:3.3.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-jar-plugin:3.3.0: Plugin org.apache.maven.plugins:maven-jar-plugin:3.3.0 or one of its dependencies could not be resolved: The following artifacts could not be resolved: org.apache.maven.plugins:maven-jar-plugin:jar:3.3.0 (present, but unavailable): org.apache.maven.plugins:maven-jar-plugin:jar:3.3.0 was not found in https://maven-central.storage.googleapis.com/repos/central/data/ during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of google-maven-central has elapsed or updates are forced
+[INFO] Artifact org.apache.maven.plugins:maven-compiler-plugin:pom:3.11.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[INFO] Artifact org.apache.maven.plugins:maven-compiler-plugin:pom:3.11.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[WARNING] The POM for org.apache.maven.plugins:maven-compiler-plugin:jar:3.11.0 is missing, no dependency information available
+[INFO] Artifact org.apache.maven.plugins:maven-surefire-plugin:pom:3.1.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[INFO] Artifact org.apache.maven.plugins:maven-surefire-plugin:pom:3.1.2 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[WARNING] The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:3.1.2 is missing, no dependency information available
+[INFO] Artifact org.apache.maven.plugins:maven-install-plugin:pom:3.1.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[INFO] Artifact org.apache.maven.plugins:maven-install-plugin:pom:3.1.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[WARNING] The POM for org.apache.maven.plugins:maven-install-plugin:jar:3.1.1 is missing, no dependency information available
+[INFO] 
+[INFO] -------------< biz.televida:televida-reclutamiento-model >--------------
+[INFO] Building televida-reclutamiento-model 1.0.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] Artifact org.apache.maven.plugins:maven-clean-plugin:pom:3.2.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[INFO] Artifact org.apache.maven.plugins:maven-clean-plugin:pom:3.2.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[WARNING] The POM for org.apache.maven.plugins:maven-clean-plugin:jar:3.2.0 is missing, no dependency information available
+[INFO] Artifact org.apache.maven.plugins:maven-clean-plugin:jar:3.2.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[INFO] Artifact org.apache.maven.plugins:maven-clean-plugin:jar:3.2.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-clean-plugin:3.2.0: Plugin org.apache.maven.plugins:maven-clean-plugin:3.2.0 or one of its dependencies could not be resolved: The following artifacts could not be resolved: org.apache.maven.plugins:maven-clean-plugin:jar:3.2.0 (present, but unavailable): org.apache.maven.plugins:maven-clean-plugin:jar:3.2.0 was not found in https://maven-central.storage.googleapis.com/repos/central/data/ during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of google-maven-central has elapsed or updates are forced
+[INFO] Artifact org.apache.maven.plugins:maven-jar-plugin:pom:3.3.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[INFO] Artifact org.apache.maven.plugins:maven-jar-plugin:pom:3.3.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[WARNING] The POM for org.apache.maven.plugins:maven-jar-plugin:jar:3.3.0 is missing, no dependency information available
+[INFO] Artifact org.apache.maven.plugins:maven-jar-plugin:jar:3.3.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[INFO] Artifact org.apache.maven.plugins:maven-jar-plugin:jar:3.3.0 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[WARNING] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-jar-plugin:3.3.0: Plugin org.apache.maven.plugins:maven-jar-plugin:3.3.0 or one of its dependencies could not be resolved: The following artifacts could not be resolved: org.apache.maven.plugins:maven-jar-plugin:jar:3.3.0 (present, but unavailable): org.apache.maven.plugins:maven-jar-plugin:jar:3.3.0 was not found in https://maven-central.storage.googleapis.com/repos/central/data/ during a previous attempt. This failure was cached in the local repository and resolution is not reattempted until the update interval of google-maven-central has elapsed or updates are forced
+[INFO] 
+[INFO] --- install:3.1.1:install-file (default-cli) @ televida-reclutamiento-model ---
+[INFO] Artifact org.apache.maven.plugins:maven-install-plugin:pom:3.1.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[INFO] Artifact org.apache.maven.plugins:maven-install-plugin:pom:3.1.1 is present in the local repository, but cached from a remote repository ID that is unavailable in current build context, verifying that is downloadable from [google-maven-central (https://maven-central.storage.googleapis.com/repos/central/data/, default, releases)]
+[WARNING] The POM for org.apache.maven.plugins:maven-install-plugin:jar:3.1.1 is missing, no dependency information available
+[WARNING] Error injecting: org.apache.maven.plugins.install.InstallFileMojo
+java.lang.NoClassDefFoundError: org/codehaus/plexus/util/xml/XmlStreamReader
+    at java.lang.Class.getDeclaredConstructors0 (Native Method)
+    at java.lang.Class.privateGetDeclaredConstructors (Class.java:2671)
+    at java.lang.Class.getDeclaredConstructors (Class.java:2020)
+    at com.google.inject.spi.InjectionPoint.forConstructorOf (InjectionPoint.java:299)
+    at com.google.inject.internal.ConstructorBindingImpl.create (ConstructorBindingImpl.java:121)
+    at com.google.inject.internal.InjectorImpl.createUninitializedBinding (InjectorImpl.java:715)
+    at com.google.inject.internal.InjectorImpl.createJustInTimeBinding (InjectorImpl.java:941)
+    at com.google.inject.internal.InjectorImpl.createJustInTimeBindingRecursive (InjectorImpl.java:863)
+    at com.google.inject.internal.InjectorImpl.getJustInTimeBinding (InjectorImpl.java:300)
+    at com.google.inject.internal.InjectorImpl.getBindingOrThrow (InjectorImpl.java:223)
+    at com.google.inject.internal.InjectorImpl.getProviderOrThrow (InjectorImpl.java:1093)
+    at com.google.inject.internal.InjectorImpl.getProvider (InjectorImpl.java:1122)
+    at com.google.inject.internal.InjectorImpl.getProvider (InjectorImpl.java:1087)
+    at com.google.inject.internal.InjectorImpl.getInstance (InjectorImpl.java:1139)
+    at org.eclipse.sisu.space.AbstractDeferredClass.get (AbstractDeferredClass.java:48)
+    at com.google.inject.internal.ProviderInternalFactory.provision (ProviderInternalFactory.java:86)
+    at com.google.inject.internal.InternalFactoryToInitializableAdapter.provision (InternalFactoryToInitializableAdapter.java:57)
+    at com.google.inject.internal.ProviderInternalFactory$1.call (ProviderInternalFactory.java:67)
+    at com.google.inject.internal.ProvisionListenerStackCallback$Provision.provision (ProvisionListenerStackCallback.java:109)
+    at com.google.inject.internal.ProvisionListenerStackCallback$Provision.provision (ProvisionListenerStackCallback.java:124)
+    at com.google.inject.internal.ProvisionListenerStackCallback.provision (ProvisionListenerStackCallback.java:66)
+    at com.google.inject.internal.ProviderInternalFactory.circularGet (ProviderInternalFactory.java:62)
+    at com.google.inject.internal.InternalFactoryToInitializableAdapter.get (InternalFactoryToInitializableAdapter.java:47)
+    at com.google.inject.internal.InjectorImpl$1.get (InjectorImpl.java:1101)
+    at org.eclipse.sisu.inject.Guice4$1.get (Guice4.java:162)
+    at org.eclipse.sisu.inject.LazyBeanEntry.getValue (LazyBeanEntry.java:81)
+    at org.eclipse.sisu.plexus.LazyPlexusBean.getValue (LazyPlexusBean.java:51)
+    at org.codehaus.plexus.DefaultPlexusContainer.lookup (DefaultPlexusContainer.java:263)
+    at org.codehaus.plexus.DefaultPlexusContainer.lookup (DefaultPlexusContainer.java:255)
+    at org.apache.maven.plugin.internal.DefaultMavenPluginManager.getConfiguredMojo (DefaultMavenPluginManager.java:491)
+    at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo (DefaultBuildPluginManager.java:114)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2 (MojoExecutor.java:328)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute (MojoExecutor.java:316)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:212)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:174)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.access$000 (MojoExecutor.java:75)
+    at org.apache.maven.lifecycle.internal.MojoExecutor$1.run (MojoExecutor.java:162)
+    at org.apache.maven.plugin.DefaultMojosExecutionStrategy.execute (DefaultMojosExecutionStrategy.java:39)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:159)
+    at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject (LifecycleModuleBuilder.java:105)
+    at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject (LifecycleModuleBuilder.java:73)
+    at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build (SingleThreadedBuilder.java:53)
+    at org.apache.maven.lifecycle.internal.LifecycleStarter.execute (LifecycleStarter.java:118)
+    at org.apache.maven.DefaultMaven.doExecute (DefaultMaven.java:261)
+    at org.apache.maven.DefaultMaven.doExecute (DefaultMaven.java:173)
+    at org.apache.maven.DefaultMaven.execute (DefaultMaven.java:101)
+    at org.apache.maven.cli.MavenCli.execute (MavenCli.java:906)
+    at org.apache.maven.cli.MavenCli.doMain (MavenCli.java:283)
+    at org.apache.maven.cli.MavenCli.main (MavenCli.java:206)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0 (Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke (NativeMethodAccessorImpl.java:62)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke (DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke (Method.java:498)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced (Launcher.java:283)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.launch (Launcher.java:226)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode (Launcher.java:407)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.main (Launcher.java:348)
+Caused by: java.lang.ClassNotFoundException: org.codehaus.plexus.util.xml.XmlStreamReader
+    at org.codehaus.plexus.classworlds.strategy.SelfFirstStrategy.loadClass (SelfFirstStrategy.java:50)
+    at org.codehaus.plexus.classworlds.realm.ClassRealm.unsynchronizedLoadClass (ClassRealm.java:271)
+    at org.codehaus.plexus.classworlds.realm.ClassRealm.loadClass (ClassRealm.java:247)
+    at org.codehaus.plexus.classworlds.realm.ClassRealm.loadClass (ClassRealm.java:239)
+    at java.lang.Class.getDeclaredConstructors0 (Native Method)
+    at java.lang.Class.privateGetDeclaredConstructors (Class.java:2671)
+    at java.lang.Class.getDeclaredConstructors (Class.java:2020)
+    at com.google.inject.spi.InjectionPoint.forConstructorOf (InjectionPoint.java:299)
+    at com.google.inject.internal.ConstructorBindingImpl.create (ConstructorBindingImpl.java:121)
+    at com.google.inject.internal.InjectorImpl.createUninitializedBinding (InjectorImpl.java:715)
+    at com.google.inject.internal.InjectorImpl.createJustInTimeBinding (InjectorImpl.java:941)
+    at com.google.inject.internal.InjectorImpl.createJustInTimeBindingRecursive (InjectorImpl.java:863)
+    at com.google.inject.internal.InjectorImpl.getJustInTimeBinding (InjectorImpl.java:300)
+    at com.google.inject.internal.InjectorImpl.getBindingOrThrow (InjectorImpl.java:223)
+    at com.google.inject.internal.InjectorImpl.getProviderOrThrow (InjectorImpl.java:1093)
+    at com.google.inject.internal.InjectorImpl.getProvider (InjectorImpl.java:1122)
+    at com.google.inject.internal.InjectorImpl.getProvider (InjectorImpl.java:1087)
+    at com.google.inject.internal.InjectorImpl.getInstance (InjectorImpl.java:1139)
+    at org.eclipse.sisu.space.AbstractDeferredClass.get (AbstractDeferredClass.java:48)
+    at com.google.inject.internal.ProviderInternalFactory.provision (ProviderInternalFactory.java:86)
+    at com.google.inject.internal.InternalFactoryToInitializableAdapter.provision (InternalFactoryToInitializableAdapter.java:57)
+    at com.google.inject.internal.ProviderInternalFactory$1.call (ProviderInternalFactory.java:67)
+    at com.google.inject.internal.ProvisionListenerStackCallback$Provision.provision (ProvisionListenerStackCallback.java:109)
+    at com.google.inject.internal.ProvisionListenerStackCallback$Provision.provision (ProvisionListenerStackCallback.java:124)
+    at com.google.inject.internal.ProvisionListenerStackCallback.provision (ProvisionListenerStackCallback.java:66)
+    at com.google.inject.internal.ProviderInternalFactory.circularGet (ProviderInternalFactory.java:62)
+    at com.google.inject.internal.InternalFactoryToInitializableAdapter.get (InternalFactoryToInitializableAdapter.java:47)
+    at com.google.inject.internal.InjectorImpl$1.get (InjectorImpl.java:1101)
+    at org.eclipse.sisu.inject.Guice4$1.get (Guice4.java:162)
+    at org.eclipse.sisu.inject.LazyBeanEntry.getValue (LazyBeanEntry.java:81)
+    at org.eclipse.sisu.plexus.LazyPlexusBean.getValue (LazyPlexusBean.java:51)
+    at org.codehaus.plexus.DefaultPlexusContainer.lookup (DefaultPlexusContainer.java:263)
+    at org.codehaus.plexus.DefaultPlexusContainer.lookup (DefaultPlexusContainer.java:255)
+    at org.apache.maven.plugin.internal.DefaultMavenPluginManager.getConfiguredMojo (DefaultMavenPluginManager.java:491)
+    at org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo (DefaultBuildPluginManager.java:114)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2 (MojoExecutor.java:328)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.doExecute (MojoExecutor.java:316)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:212)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:174)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.access$000 (MojoExecutor.java:75)
+    at org.apache.maven.lifecycle.internal.MojoExecutor$1.run (MojoExecutor.java:162)
+    at org.apache.maven.plugin.DefaultMojosExecutionStrategy.execute (DefaultMojosExecutionStrategy.java:39)
+    at org.apache.maven.lifecycle.internal.MojoExecutor.execute (MojoExecutor.java:159)
+    at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject (LifecycleModuleBuilder.java:105)
+    at org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject (LifecycleModuleBuilder.java:73)
+    at org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build (SingleThreadedBuilder.java:53)
+    at org.apache.maven.lifecycle.internal.LifecycleStarter.execute (LifecycleStarter.java:118)
+    at org.apache.maven.DefaultMaven.doExecute (DefaultMaven.java:261)
+    at org.apache.maven.DefaultMaven.doExecute (DefaultMaven.java:173)
+    at org.apache.maven.DefaultMaven.execute (DefaultMaven.java:101)
+    at org.apache.maven.cli.MavenCli.execute (MavenCli.java:906)
+    at org.apache.maven.cli.MavenCli.doMain (MavenCli.java:283)
+    at org.apache.maven.cli.MavenCli.main (MavenCli.java:206)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0 (Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke (NativeMethodAccessorImpl.java:62)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke (DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke (Method.java:498)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced (Launcher.java:283)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.launch (Launcher.java:226)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode (Launcher.java:407)
+    at org.codehaus.plexus.classworlds.launcher.Launcher.main (Launcher.java:348)
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.454 s
+[INFO] Finished at: 2023-11-24T15:11:25-06:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-install-plugin:3.1.1:install-file (default-cli) on project televida-reclutamiento-model: Execution default-cli of goal org.apache.maven.plugins:maven-install-plugin:3.1.1:install-file failed: A required class was missing while executing org.apache.maven.plugins:maven-install-plugin:3.1.1:install-file: org/codehaus/plexus/util/xml/XmlStreamReader
+[ERROR] -----------------------------------------------------
+[ERROR] realm =    plugin>org.apache.maven.plugins:maven-install-plugin:3.1.1
+[ERROR] strategy = org.codehaus.plexus.classworlds.strategy.SelfFirstStrategy
+[ERROR] urls[0] = file:/C:/Users/cristhian.pineda/.m2/repository/org/apache/maven/plugins/maven-install-plugin/3.1.1/maven-install-plugin-3.1.1.jar
+[ERROR] Number of foreign imports: 1
+[ERROR] import: Entry[import  from realm ClassRealm[maven.api, parent: null]]
+[ERROR] 
+[ERROR] -----------------------------------------------------
+[ERROR] : org.codehaus.plexus.util.xml.XmlStreamReader
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/PluginContainerException
